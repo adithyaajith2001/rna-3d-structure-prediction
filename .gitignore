@@ -1,0 +1,7 @@
+*.cif
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+.config/
+sample_data/
